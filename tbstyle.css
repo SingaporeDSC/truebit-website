@@ -1,0 +1,25 @@
+/* TrueBit CSS style file */
+
+body
+{
+font-size:80%;
+font-family:verdana,arial,'sans serif';
+background-color:#E0EFDF;
+color:#000000;
+margin:10px;
+}
+
+tbtitle {text-align:center;}
+sub {font-size:12.0pt;font-weight:normal;line-height:0%;font-family:Constantia,'serif';}
+h2 {font-size:14.0pt;}
+p {font-size:10pt;}
+
+a:link {color:#000080;}
+a:hover {color:red;}
+a:visited {color:#444444;}
+
+table {
+margin-bottom:auto;
+margin-top:auto;
+font-size:10pt;
+}
